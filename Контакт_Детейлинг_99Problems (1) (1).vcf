@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Детейлинг “99Problems”
+N:Детейлинг;99Problems;;;
+TEL;TYPE=cell:+79171230099
+URL:https://99problems.ru/
+X-SOCIALPROFILE;type=instagram:https://www.instagram.com/99problems_detailing?igsh=MXIwNjhkcHI4dTMwOA==
+X-SOCIALPROFILE;type=telegram:https://t.me/dtl_99problems
+X-SOCIALPROFILE;type=whatsapp:https://wa.me/message/T5VBASOCW3XBM1
+ADR;TYPE=work:;;ул. Дыбенко, 95;;;;
+END:VCARD
